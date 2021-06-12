@@ -111,6 +111,7 @@
     <option name="cloneParentDir" value="G:\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
